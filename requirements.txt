@@ -1,0 +1,3 @@
+phidata==2.7.6
+groq==0.13.1
+python-dotenv==1.0.1
