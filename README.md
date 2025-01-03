@@ -1,4 +1,4 @@
-# Simple_grot_api_agent
+# Simple_grot_api
 
 This api uses NVIDIA's llama model. 
 
